@@ -32,7 +32,7 @@ pipeline {
                     agent {
                         docker {
                             reuseNode true
-                            image 'ubuntu_pravin'
+                            image 'ubuntu_pravi'
                         }
                     }
                     steps {
